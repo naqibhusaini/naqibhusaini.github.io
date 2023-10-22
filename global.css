@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-xl: 20px;
+  --font-size-6xs: 7px;
+
+  /* Colors */
+  --color-snow: #fff9f9;
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+
+  /* Effects */
+  --accentued-drop-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+}
